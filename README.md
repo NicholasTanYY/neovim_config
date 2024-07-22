@@ -12,6 +12,12 @@ This repo consists of the neovim configuration I am using. It follows the tutori
 - `<leader>gd` shows the definition of the method with documentation
 - `<leader>ca` execute code actions if there is a mistake found in the code
 - `<leader>gr` shows the references
+- `<C-w-w>` or `<C-w-{arrow_key}>` to change focus panes  
+
+## More commands
+
+- (All commands that work with git, just replace `git` with `:Git`)
+- `:sp <path_to_file>` opens the file in a split window
 
 ## Adding more plugins
 
