@@ -9,6 +9,9 @@ This repo consists of the neovim configuration I am using. It follows the tutori
 - `<C-p>` opens a fuzzy search for files names
 - `<leader>gp` opens a preview of the changes registered by git in the hunk format
 - `<leader>gt` shows who changed that when the cursor hovers over it
+- `<leader>gd` shows the definition of the method with documentation
+- `<leader>ca` execute code actions if there is a mistake found in the code
+- `<leader>gr` shows the references
 
 ## Adding more plugins
 
