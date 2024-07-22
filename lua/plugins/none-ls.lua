@@ -15,7 +15,6 @@ return {
         -- null_ls.builtins.diagnostics.eslint,
         null_ls.builtins.diagnostics.dotenv_linter,
         null_ls.builtins.diagnostics.markdownlint,
-        null_ls.builtins.diagnostics.textlint,
         null_ls.builtins.diagnostics.cppcheck,
       },
     })
