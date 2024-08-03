@@ -6,6 +6,7 @@ This repo consists of the neovim configuration I am using. It follows the tutori
 
 - `<C-n>` opens the file tree to the left
 - `<leader>fg` opens the global fuzzy finder (basically global ctrl f)
+- `<leader>gf` formats the code globally based on the language
 - `<C-p>` opens a fuzzy search for files names
 - `<leader>gp` opens a preview of the changes registered by git in the hunk format
 - `<leader>gt` shows who changed that when the cursor hovers over it
@@ -13,6 +14,7 @@ This repo consists of the neovim configuration I am using. It follows the tutori
 - `<leader>ca` execute code actions if there is a mistake found in the code
 - `<leader>gr` shows the references
 - `<C-w-w>` or `<C-w-{arrow_key}>` to change focus panes  
+- `gc` when in VISUAL mode to comment/uncomment the selected lines
 
 ## More commands
 
